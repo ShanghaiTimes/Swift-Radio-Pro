@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F7428483D536C3D43FB810D912456E8B9C53DC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "224A433420C9C59CEABE6D832C9DC0E12BEF84B1" : 0,
+    "8F7428483D536C3D43FB810D912456E8B9C53DC5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D86FA7AF-F9A1-40A3-8973-944DCE1CCFE8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "224A433420C9C59CEABE6D832C9DC0E12BEF84B1" : "..",
+    "8F7428483D536C3D43FB810D912456E8B9C53DC5" : "Swift-Radio-Pro\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftRadio",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftRadio.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShanghaiTimes\/audiostreamer-meta-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "224A433420C9C59CEABE6D832C9DC0E12BEF84B1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/swiftcodex\/Swift-Radio-Pro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F7428483D536C3D43FB810D912456E8B9C53DC5"
+    }
+  ]
+}

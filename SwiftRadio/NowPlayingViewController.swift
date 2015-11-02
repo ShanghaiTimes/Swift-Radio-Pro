@@ -56,7 +56,7 @@ class NowPlayingViewController: UIViewController {
         super.viewDidLoad()
         
         // Set AlbumArtwork Constraints
-        optimizeForDeviceSize()
+         optimizeForDeviceSize()
 
         // Set View Title
         self.title = currentStation.stationName
@@ -219,13 +219,13 @@ class NowPlayingViewController: UIViewController {
         
         if deviceHeight == 480 {
             iPhone4 = true
-            albumHeightConstraint.constant = 106
+            albumHeightConstraint.constant = 186
             view.updateConstraints()
         } else if deviceHeight == 667 {
-            albumHeightConstraint.constant = 230
+            albumHeightConstraint.constant = 231
             view.updateConstraints()
         } else if deviceHeight > 667 {
-            albumHeightConstraint.constant = 260
+            albumHeightConstraint.constant = 234
             view.updateConstraints()
         }
     }
