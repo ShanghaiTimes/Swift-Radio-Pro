@@ -28,6 +28,13 @@
      "imageURL": "",
      "desc": "KVCU - Boulder, CO",
      "longDesc": "Radio 1190 is the bomb."
+     },
+     {
+     "name": "Quantum Radio",
+     "streamURL": "http://listen.spacial.com/api/listen/?sid=65701&method=sc&rid=1187760",
+     "imageURL": "http://www.quantum-radio.net/images/quantumradio-swift.png",
+     "desc": "Felixstowe - Suffolk. UK",
+     "longDesc": "Streaming an eclectic range of music since 1999 - Just the music, no talk!"
      }
     ]
 }
